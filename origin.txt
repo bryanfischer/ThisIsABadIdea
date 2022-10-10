@@ -2,3 +2,6 @@ This is the original file.
 I am now adding a line.
 I'm adding a third line.
 adding a line in my testbranch
+
+Hello 
+I am editing this file
